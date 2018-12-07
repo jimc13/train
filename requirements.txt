@@ -1,0 +1,8 @@
+certifi==2018.8.24
+chardet==3.0.4
+idna==2.7
+nrewebservices==0.1.4
+pytz==2018.5
+requests==2.19.1
+suds-jurko==0.6
+urllib3==1.23
